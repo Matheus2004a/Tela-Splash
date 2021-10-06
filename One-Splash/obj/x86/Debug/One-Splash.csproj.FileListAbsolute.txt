@@ -1,0 +1,14 @@
+C:\Users\Aurelio\AppData\Local\Temporary Projects\One-Splash\bin\Debug\One-Splash.exe
+C:\Users\Aurelio\AppData\Local\Temporary Projects\One-Splash\bin\Debug\One-Splash.pdb
+C:\Users\Aurelio\AppData\Local\Temporary Projects\One-Splash\obj\x86\Debug\One_Splash.Form1.resources
+C:\Users\Aurelio\AppData\Local\Temporary Projects\One-Splash\obj\x86\Debug\One_Splash.Properties.Resources.resources
+C:\Users\Aurelio\AppData\Local\Temporary Projects\One-Splash\obj\x86\Debug\One-Splash.csproj.GenerateResource.Cache
+C:\Users\Aurelio\AppData\Local\Temporary Projects\One-Splash\obj\x86\Debug\One-Splash.exe
+C:\Users\Aurelio\AppData\Local\Temporary Projects\One-Splash\obj\x86\Debug\One-Splash.pdb
+C:\Users\Aurelio\documents\visual studio 2010\Projects\One-Splash\One-Splash\obj\x86\Debug\One-Splash.exe
+C:\Users\Aurelio\documents\visual studio 2010\Projects\One-Splash\One-Splash\obj\x86\Debug\One-Splash.pdb
+C:\Users\Aurelio\documents\visual studio 2010\Projects\One-Splash\One-Splash\bin\Debug\One-Splash.exe
+C:\Users\Aurelio\documents\visual studio 2010\Projects\One-Splash\One-Splash\bin\Debug\One-Splash.pdb
+C:\Users\Aurelio\documents\visual studio 2010\Projects\One-Splash\One-Splash\obj\x86\Debug\One_Splash.Properties.Resources.resources
+C:\Users\Aurelio\documents\visual studio 2010\Projects\One-Splash\One-Splash\obj\x86\Debug\One-Splash.csproj.GenerateResource.Cache
+C:\Users\Aurelio\documents\visual studio 2010\Projects\One-Splash\One-Splash\obj\x86\Debug\One_Splash.frm_Splash.resources
